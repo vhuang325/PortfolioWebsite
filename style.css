@@ -514,7 +514,7 @@ span {
 }
 
 .projects-layer p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin: 0.3rem 0 1rem;
 }
 
@@ -713,7 +713,7 @@ section:nth-child(odd) .animate.scroll,
 .projects.show-animate .animate.scroll,
 .contact.show-animate .animate.scroll,
 .footer.show-animate .animate.scroll {
-  transition-delay: calc(0.3s * var(--i));
+  transition-delay: calc(0.05s * var(--i));
   width: 0;
 }
 
