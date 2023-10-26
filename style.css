@@ -471,7 +471,7 @@ span {
 
 .projects-container .projects-box {
   position: relative;
-  border-radius: 2rem;
+  border-radius: 2.1rem;
   box-shadow: 0 0 1 rem var(--bg-color);
   overflow: hidden;
   display: flex;
